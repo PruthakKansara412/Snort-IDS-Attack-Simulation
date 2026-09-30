@@ -132,7 +132,7 @@ nmap -p 22 192.168.1.10
 ##  Full Report
 
 The complete step-by-step documentation with screenshots is available here:
-[Project_IDS_snort.pdf](Project_IDS_snort.pdf)
+[Project_IDS_snort.pdf](ProjectIDSsnort.pdf)
 
 ---
 
